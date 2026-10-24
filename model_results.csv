@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,MSE
+Logistic Regression,0.7935,0.7973,0.7935,0.7945,0.2065
+Random Forest,0.837,0.8443,0.837,0.8381,0.163
+KNN,0.7826,0.7981,0.7826,0.7845,0.2174
